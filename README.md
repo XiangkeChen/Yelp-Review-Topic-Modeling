@@ -1,6 +1,6 @@
 # yelp_review
 
-This is our exploratory journey of yelp dataset. The main topic is reviews. 
+This is our exploratory journey of yelp dataset. The main topic is about reviews' topic modeling. 
 
 Our team has Yi Zhu, Yili Yu, Boyang Wei, Lin Xu and Xiangke Chen
 
