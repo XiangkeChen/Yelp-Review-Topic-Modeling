@@ -1,0 +1,153 @@
+Business ID ,categories,Name,Sentiment ,Interpretted Topic ,Topic ID ,Topic Weight (Percentage),Word,Word_weight
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Buffet Services,0,0.8,refill,0.062
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Buffet Services,0,0.8,type,0.034
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Buffet Services,0,0.8,list,0.034
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Buffet Services,0,0.8,sushi,0.02
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Buffet Services,0,0.8,high_expectation,0.018
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Buffet Services,0,0.8,rude,0.016
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Drinking festival,12,0.4,bacchanal,0.238
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Drinking festival,12,0.4,omg,0.04
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Drinking festival,12,0.4,deliver,0.024
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Drinking festival,12,0.4,indulge,0.019
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Drinking festival,12,0.4,impeccable,0.013
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Drinking festival,12,0.4,cure,0.011
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Drinking festival,12,0.4,slot,0.008
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Drinking Services,2,7.1,drink,0.044
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Drinking Services,2,7.1,menu,0.042
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Drinking Services,2,7.1,beer,0.027
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Drinking Services,2,7.1,cool,0.022
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Drinking Services,2,7.1,serve ,0.022
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Drinking Services,2,7.1,water,0.012
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Drinking Services,7,4.7,shake,0.086
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Drinking Services,7,4.7,top,0.042
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Drinking Services,7,4.7,fresh,0.026
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Drinking Services,7,4.7,milkshake,0.024
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Drinking Services,7,4.7,pudde,0.023
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Drinking Services,7,4.7,sweet,0.02
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Drinking Services,7,4.7,pudding,0.017
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Drinking Services,3,0.3,tea,0.066
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Drinking Services,3,0.3,attention,0.059
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Drinking Services,3,0.3,accommodate,0.045
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Drinking Services,3,0.3,speak,0.041
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Drinking Services,3,0.3,broth,0.041
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Drinking Services,3,0.3,lemon,0.04
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Environment,1,0.4,open,0.16
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Environment,1,0.4,clear,0.136
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Environment,1,0.4,avoid,0.069
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Environment,1,0.4,grant,0.026
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Environment,1,0.4,afternoon,0.025
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Environment,1,0.4,outside,0.017
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Environment,1,0.4,safe,0.011
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Environment,2,0.1,horrible,0.046
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Environment,2,0.1,swear,0.008
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Environment,2,0.1,cleaning,0.004
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Environment,2,0.1,runny,0.004
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Environment,2,0.1,chat,0.004
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Environment,6,0.5,locate,0.056
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Environment,6,0.5,delish,0.026
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Environment,6,0.5,outdoor_seate,0.022
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Environment,6,0.5,alcohol,0.017
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Environment,6,0.5,trust,0.015
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Environment,6,0.5,indulge,0.009
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Environment,6,0.5,street,0.007
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Environment,6,0.5,pleasure,0.005
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Environment,6,0.5,convenience,0.004
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Food,0,19.5,plate,0.035
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Food,0,19.5,station,0.021
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Food,0,19.5,salad,0.018
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Food,0,19.5,pretty,0.017
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Food,0,19.5,look,0.014
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Food,0,19.5,chocolate,0.011
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Food,7,1.8,chicken,0.047
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Food,7,1.8,bread,0.028
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Food,7,1.8,slow,0.021
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Food,7,1.8,wing,0.018
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Food,7,1.8,mess,0.015
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Food,7,1.8,pistachio,0.013
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Food,7,1.8,grill,0.012
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Food,0,0.6,wing,0.125
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Food,0,0.6,possibly,0.044
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Food,0,0.6,juicy,0.082
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Food,0,0.6,affordable,0.036
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Food,0,0.6,vanilla,0.025
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Food,0,0.6,fury_chicken,0.021
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Food,0,0.6,deliciousness,0.02
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Food,3,7.5,flavor,0.045
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Food,3,7.5,meat,0.02
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Food,3,7.5,spicy,0.018
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Food,3,7.5,add,0.017
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Food,3,7.5,feel,0.016
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Food,3,7.5,aioli,0.014
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Food,3,7.5,expectation,0.011
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Food,1,8.2,huge,0.043
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Food,1,8.2,portion,0.031
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Food,1,8.2,salad,0.022
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Food,1,8.2,cheese,0.019
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Food,1,8.2,egg,0.018
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Food,1,8.2,cake,0.015
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Food,1,8.2,meal,0.015
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Food,1,8.2,bread,0.012
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Reservation & Special Events,8,0.3,birthday,0.05
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Reservation & Special Events,8,0.3,door,0.041
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Reservation & Special Events,8,0.3,take_reservation,0.031
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Reservation & Special Events,8,0.3,detail,0.027
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Reservation & Special Events,8,0.3,daughter,0.025
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Reservation & Special Events,8,0.3,straight,0.023
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Reservation & Special Events,8,0.3,notify,0.017
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Positive,Reservation & Special Events,8,0.3,celebrate,0.008
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Service Quality,13,0.3,weekday,0.073
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Service Quality,13,0.3,immediately,0.068
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Service Quality,13,0.3,morning,0.039
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Service Quality,13,0.3,girlfriend,0.033
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Service Quality,13,0.3,marrow,0.03
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Positive,Service Quality,13,0.3,smile,0.02
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Service Quality,5,4.2,waitress,0.041
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Service Quality,5,4.2,hostess,0.031
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Service Quality,5,4.2,staff,0.029
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Service Quality,5,4.2,waiter,0.027
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Service Quality,5,4.2,offer,0.018
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Service Quality,5,4.2,talk,0.018
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Service Quality,5,4.2,rude,0.017
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Service Quality,5,4.2,friendly,0.009
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Positive,Service Quality,5,4.2,tip,0.005
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Service Quality,3,4.4,customer,0.032
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Service Quality,3,4.4,hostess,0.027
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Service Quality,3,4.4,mean,0.023
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Service Quality,3,4.4,close,0.023
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Service Quality,3,4.4,rude,0.021
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Service Quality,3,4.4,water,0.019
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Service Quality,3,4.4,manager,0.017
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Service Quality,3,4.4,later,0.017
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Service Quality,3,4.4,pm,0.012
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Service Quality,3,4.4,care,0.008
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Special Events,4,2.3,birthday,0.04
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Special Events,4,2.3,cake,0.021
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Special Events,4,2.3,pack,0.021
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Special Events,4,2.3,strawberry,0.016
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Special Events,4,2.3,crowd,0.013
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Special Events,4,2.3,sing,0.008
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Special Events,4,2.3,lackluster,0.005
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Special Events,4,2.3,celebrate,0.003
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Special Events,4,2.3,usual,0.003
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Reservation & Wait,4,5.1,line,0.11
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Reservation & Wait,4,5.1,wait,0.096
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Reservation & Wait,4,5.1,minute,0.048
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Reservation & Wait,4,5.1,long,0.046
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Reservation & Wait,4,5.1,seat,0.032
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Reservation & Wait,4,5.1,hour,0.024
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Reservation & Wait,4,5.1,weekend,0.02
+K7lWdNUhCbcnEvI0NhGewg,"Buffets, Breakfast & Brunch, Restaurants",Wicked Spoon,Negative,Reservation & Wait,4,5.1,arrive,0.016
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Reservation & Wait,4,17.2,minute,0.041
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Reservation & Wait,4,17.2,table,0.04
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Reservation & Wait,4,17.2,server,0.023
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Reservation & Wait,4,17.2,ask,0.021
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Reservation & Wait,4,17.2,food,0.017
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Reservation & Wait,4,17.2,order,0.015
+cYwJA2A6I12KNkm2rtXd5g,"Restaurants, Burgers, American (Traditional)",Gordon Ramsay BurGR,Negative,Reservation & Wait,4,17.2,wait,0.014
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Reservation & Wait,5,37.1,wait,0.033
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Reservation & Wait,5,37.1,order,0.031
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Reservation & Wait,5,37.1,take,0.02
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Reservation & Wait,5,37.1,time,0.02
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Reservation & Wait,5,37.1,minute,0.019
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Reservation & Wait,5,37.1,food,0.018
+eoHdUeQDNgQ6WYEnP2aiRw,"Juice Bars & Smoothies, Social Clubs, Arts & Entertainment, American (Traditional), Local Flavor, Restaurants, Desserts, American (New), Food",Serendipity,Negative,Reservation & Wait,5,37.1,service,0.017
