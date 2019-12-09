@@ -10,10 +10,11 @@ We hope to build a review Dashboard for restaurant owners/managers containing re
 
 **Analysis approach**
 
-Sentence-level: Quantifying the polarity scores of the comments by extracting keywords (‘too salty’, ‘poor service’, ‘rats in the kitchen’, etc) from reviews with negative feedback to help restaurants understand the reasons behind and improve. 
-Customer-level: classify the opinion of each review into a positive, negative or neutral sentiment by deciphering the sentiment tendency for each review and evaluating how satisfied or dissatisfied customer is based on the total score.
+- Sentence-level: Quantifying the polarity scores of the comments by extracting keywords (‘too salty’, ‘poor service’, ‘rats in the kitchen’, etc) from reviews with negative feedback to help restaurants understand the reasons behind and improve. 
 
-Entity and Aspect level: analyze how a word, especially negative keyword, contributes to the overall score for restaurant, then summarize sentiment analysis and negative review reason analysis and display on restaurant dashboard (for restaurant managers to view) on a regular basis.
+- customer-level: classify the opinion of each review into a positive, negative or neutral sentiment by deciphering the sentiment tendency for each review and evaluating how satisfied or dissatisfied customer is based on the total score.
+
+- Entity and Aspect level: analyze how a word, especially negative keyword, contributes to the overall score for restaurant, then summarize sentiment analysis and negative review reason analysis and display on restaurant dashboard (for restaurant managers to view) on a regular basis.
 
 We plan to use the following tools : SparkML, Tableau, Databrick, AWS
 
