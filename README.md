@@ -16,3 +16,7 @@ Customer-level: classify the opinion of each review into a positive, negative or
 Entity and Aspect level: analyze how a word, especially negative keyword, contributes to the overall score for restaurant, then summarize sentiment analysis and negative review reason analysis and display on restaurant dashboard (for restaurant managers to view) on a regular basis.
 
 We plan to use the following tools : SparkML, Tableau, Databrick, AWS
+
+We also publish our dashboard in *Tableau Public*, click the [link](https://public.tableau.com/profile/xiangke.chen#!/vizhome/YelpReviewAnalysis_15758570841320/final) and watch.
+
+![Qw9xi9.png](https://s2.ax1x.com/2019/12/09/Qw9xi9.png)
