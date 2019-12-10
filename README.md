@@ -2,7 +2,7 @@
 
 This is our exploratory journey of yelp dataset. The main topic is about reviews' topic modeling. 
 
-Our team has Yi Zhu, Yili Yu, Boyang Wei, Lin Xu and Xiangke Chen
+Our team has Yi Zhu, Yili Yu, Boyang Wei, Lin Xu and Xiangke Chen, Yusha Wang
 
 This project focuses on goal A. We will perform text analytics on the yelp dataset to derive business insights from customers’ restaurant reviews. We hope to provide restaurant owners with a timely review summary. Our goal is to help business owners identify issues that they might not be aware of and serve their customers better. Our target audience will be restaurant owners and managers. The dataset comes from https://www.yelp.com/dataset.
 
