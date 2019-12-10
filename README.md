@@ -12,7 +12,7 @@ We built a review Dashboard for restaurant owners/managers containing review sco
 
 - Sentence-level: Quantifying the polarity scores of the comments by extracting keywords (‘too salty’, ‘poor service’, ‘rats in the kitchen’, etc) from reviews with negative feedback to help restaurants understand the reasons behind and improve. 
 
-- customer-level: classify the opinion of each review into a positive, negative or neutral sentiment by deciphering the sentiment tendency for each review and evaluating how satisfied or dissatisfied customer is based on the total score.
+- Customer-level: classify the opinion of each review into a positive, negative or neutral sentiment by deciphering the sentiment tendency for each review and evaluating how satisfied or dissatisfied customer is based on the total score.
 
 - Entity and Aspect level: analyze how a word, especially negative keyword, contributes to the overall score for restaurant, then summarize sentiment analysis and negative review reason analysis and display on restaurant dashboard (for restaurant managers to view) on a regular basis.
 
